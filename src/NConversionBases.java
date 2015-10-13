@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author avinash
+ * @author arun.k
  */
 public class NConversionBases {
 
